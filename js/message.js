@@ -1,0 +1,1 @@
+document.write(' <script src="//message.sbmchina.com/message.min.js?site=sbm&position=left&time=8000&application=true&facebook=true&img=1"></script>')
